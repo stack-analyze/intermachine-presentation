@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:400,700&display=swap');
+
 .frame-background {
   position: absolute;
   width: 40%;
@@ -8,4 +10,9 @@
   padding: 20px;
   font-size: 20px;
   text-align: left;
+}
+
+.titulo , .titulo h1{
+  color: #e46c0a !important;
+  font-family:  'Work Sans', sans-serif;
 }
